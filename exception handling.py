@@ -11,11 +11,13 @@
 
 # print('Ok i have done division of number ')    
 
-age=int(input("Tell your age :"))
+# age=int(input("Tell your age :"))
+# try:
+#     if age<10 or age>18:
+#         raise ValueError("Sorry you age must be between 10 and 18 ")
+#     else:
+#         print("Welcome to the club")
+# except Exception as err:
+#     print('an error occured as err')
 
-if age<10 or age>18:
-    raise ValueError("Sorry you age must be between 10 and 18 ")
-else:
-    print("Welcome to the club")
-
-print('The club will start soon')    
+# print('The club will start soon')    

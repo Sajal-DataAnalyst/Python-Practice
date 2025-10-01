@@ -45,5 +45,4 @@ class Account:
 
 acc=Account(1000)
 acc.deposit(500)    
-print(acc.get_balance())   
-        
+print(acc.get_balance()) 
